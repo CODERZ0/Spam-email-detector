@@ -34,7 +34,7 @@ with st.sidebar:
         """
     )
     st.divider()
-    st.caption("Built by Abhinav A")
+    st.caption("Built by Abhiram. M")
 
 # ---------- Main content ----------
 st.title("📧 Spam Email Classificator ")
